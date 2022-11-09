@@ -1,0 +1,12 @@
+:: StoryTitle
+Template
+
+:: StoryData
+{
+        "format": "SugarCube",
+        "format-version": "2.30.0",
+        "ifid": "6C0C5650-48EC-4A0B-8D19-96322D887D03"
+}
+
+:: Start
+This is a test
